@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/cristian-sivak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linked-in" height="30" width="40" /></a>
 </p>
-<a href="https://linkedin.com/in/cristian-sivak" target="blank"><img align="center" src="https://github.com/CristianSivak/cristian-sivak/blob/main/img/001-html.svg" alt="linked-in" height="30" width="40" /></a>
 <h3 align="left">Technological stack :hammer:</h3>
-
+<a href="https://www.w3schools.com/html/default.asp" target="blank"><img align="center" src="https://github.com/CristianSivak/cristian-sivak/blob/main/img/001-html.svg" alt="html" height="30" width="40" /></a>
+<a href="https://www.w3schools.com/css/default.asp" target="blank"><img align="center" src="https://github.com/CristianSivak/cristian-sivak/blob/main/img/002-css-3.svg" alt="html" height="30" width="40" /></a>
 <h3 align="left">Desing tools :art:</h3>
