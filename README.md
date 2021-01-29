@@ -14,5 +14,5 @@
 </p>
 
 <h3 align="left">Technological stack :hammer:</h3>
-![busqueda](https://github.com/CristianSivak/cristian-sivak/blob/master/img/001-html.svg)
+
 <h3 align="left">Desing tools :art:</h3>
