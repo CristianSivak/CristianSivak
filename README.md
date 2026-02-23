@@ -1,6 +1,6 @@
 # About Me 👨‍💻
 
-<h3> I'm a Senior Full-Stack Engineer ☁️ </h3> 
+<h3> Full-Stack Engineer ☁️ </h3> 
 
 - 6+ years building scalable web applications and cloud-native systems  
 - Strong experience with React, TypeScript, Node.js and AWS  
