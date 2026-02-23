@@ -2,10 +2,11 @@
 
 <h3> Full-Stack Engineer ☁️ </h3> 
 
-- 6+ years building scalable web applications and cloud-native systems  
+- 6+ years building scalable web applications  
 - Strong experience with React, TypeScript, Node.js and AWS  
-- Specialized in event-driven and serverless architectures  
-- Passionate about clean architecture, performance and continuous improvement  
+- Experienced in event-driven and serverless architectures  
+- AI enthusiast — exploring AI-assisted development workflows (Claude Code, automation, rapid prototyping)  
+- Passionate about clean architecture and continuous improvement  
 - Comfortable working in Agile / Scrum environments  
 - Open to collaborating on impactful projects 🚀  
 - Life-long learner 📚  
